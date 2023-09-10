@@ -18,6 +18,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Fix thread safety in process code #43
 - Fix process package build on AIX #54
 - Ensure correct devID width in cgv2 #74
+- Fix process package build on Solaris
 
 ## [0.4.4]
 
