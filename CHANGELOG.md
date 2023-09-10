@@ -17,6 +17,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - Fix thread safety in process code #43
 - Fix process package build on AIX #54
+- Fix process package build on Solaris
 
 ## [0.4.4]
 
